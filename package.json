@@ -1,0 +1,22 @@
+{
+  "name": "bokken-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "prepare": "husky install"
+  },
+  "author": "Hojjat Jokar",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^11.2.6",
+    "prettier": "2.4.1"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
+}
