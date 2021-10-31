@@ -35,12 +35,12 @@ This is a boilerplate with config for webpack, typescript, babel, .. to start a 
 
 ## TODO
 
-- [] react
-- [] react dom
-- [ ] React Testing Librar
-- [ ] Jest
-- [ ] cypress
-- [] redux
+- [x] react
+- [x] react dom
+- [x] React Testing Library
+- [x] Jest
+- [x] cypress
+- [x] redux
 
 ## LICENSE
 
